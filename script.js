@@ -1,12 +1,12 @@
 // ====================Start title Replace==================
 
-document.addEventListener('visibilitychange', function () {
-    if (document.visibilityState === 'hidden') {
-        document.title = 'Social Media'
-    } else {
-        document.title = 'Imran Ali | Social Media';
-    }
-});
+// document.addEventListener('visibilitychange', function () {
+//     if (document.visibilityState === 'hidden') {
+//         document.title = 'Social Media'
+//     } else {
+//         document.title = 'Imran Ali | Social Media';
+//     }
+// });
 
 
 // ====================Start PDF Button==================
